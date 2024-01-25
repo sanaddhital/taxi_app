@@ -46,7 +46,7 @@ print(user_info)
 data_store = []
 
 updated = data_store.append(user_info)
-print(updated)
+print("Here is the update", updated)
 
 
 
